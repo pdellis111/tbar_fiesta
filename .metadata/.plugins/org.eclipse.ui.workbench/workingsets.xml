@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.wst.jsdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472899084643_1" label="tbar_fiesta" name="tbar_fiesta">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1473468217549_2" label="wedding" name="wedding">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/wedding" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472898347528_0" label="Window Working Set" name="Aggregate for window 1472898347527"/>
+<mruList name="wedding"/>
+<mruList name="tbar_fiesta"/>
+</workingSetManager>
